@@ -4,7 +4,7 @@ Criando o Banco de Dados no PHPMYADMIN
 <p>Para criar o banco de dados primeiramente você precisa abrir o programa xampp depois de aberto na parte de apache e mysql clique em start
 então ele ficará com uma cor verde assim dizendo que está tudo ok</p>
 
-<li>acesse: <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a></li>
+<li>acesse: <a target="_blank" href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a></li>
 
 <p>depois que acessar essa pagina no lado esquerdo você vera o icone de uma base de dados escrito new então clique nela.</p>
 
