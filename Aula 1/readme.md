@@ -28,6 +28,6 @@ Duvidas
 
 <p>nathan-vm@hotmail.com.br</P>
 
-<p>Scaneando  QR Code também você me adicionara aos seus contatos</p>
+<p>Escaneando o QR Code também você me adicionara aos seus contatos</p>
 <img src="https://i.imgur.com/lnWtD7l.png">
 
