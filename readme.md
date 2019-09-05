@@ -26,7 +26,7 @@ Duvidas
 
 <p>Em Caso de duvidas fica meu e-mail logo abaixo</p>
 
-<p>nathan-vm@hotmail.com.br</P>
+<p><a href="nathan-vm@hotmail.com.br">nathan-vm@hotmail.com.br</a></p>
 
 <p>Escaneando o QR Code também você me adicionara aos seus contatos</p>
 <img src="https://i.imgur.com/lnWtD7l.png">
